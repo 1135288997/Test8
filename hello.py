@@ -1,3 +1,4 @@
+# 这是一个简单的Python脚本，用于打印"Hello, GitHub!"
 def say_hello():
     print("Hello, GitHub!")
 
